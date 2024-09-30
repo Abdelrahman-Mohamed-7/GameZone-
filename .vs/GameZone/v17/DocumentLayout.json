@@ -162,8 +162,7 @@
               "RelativeToolTip": "GameZone\\Services\\ICategoriesServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T15:45:01.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T15:45:01.23Z"
             },
             {
               "$type": "Document",
@@ -221,7 +220,7 @@
               "RelativeDocumentMoniker": "GameZone\\Services\\GamesServices.cs",
               "ToolTip": "D:\\projects\\GameZone\\GameZone\\Services\\GamesServices.cs",
               "RelativeToolTip": "GameZone\\Services\\GamesServices.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwHsAAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T16:03:41.129Z",
               "EditorCaption": ""
@@ -236,8 +235,7 @@
               "RelativeToolTip": "GameZone\\Services\\IGamesServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T17:03:56.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T17:03:56.972Z"
             },
             {
               "$type": "Document",
@@ -249,8 +247,7 @@
               "RelativeToolTip": "GameZone\\Controllers\\GamesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T12:37:58.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T12:37:58.202Z"
             },
             {
               "$type": "Document",
@@ -527,16 +524,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-09-10T13:40:56.312Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
